@@ -10,4 +10,8 @@ public class Hello {
     public void show(){
         System.out.println("master分支的方法");
     }
+
+    public void test(){
+        System.out.println("dev分支的方法1");
+    }
 }
