@@ -8,6 +8,6 @@ public class Hello {
     }
 
     public void test(){
-        System.out.println("dev分支的方法");
+        System.out.println("dev分支的方法1");
     }
 }
