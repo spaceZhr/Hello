@@ -6,4 +6,8 @@ public class Hello {
 
         System.out.println("新增的一句代码");
     }
+
+    public void show(){
+        System.out.println("master分支的方法");
+    }
 }
