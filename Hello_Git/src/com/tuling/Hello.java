@@ -6,4 +6,8 @@ public class Hello {
 
         System.out.println("新增的一句代码");
     }
+
+    public void test(){
+        System.out.println("dev分支的方法");
+    }
 }
